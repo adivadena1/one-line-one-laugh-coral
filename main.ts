@@ -6,7 +6,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
 const LINE =
-  "I bought a standing desk to be healthier, and now I just stand still eating chips at a taller table.";
+  "My password manager locked me out for suspicious activity — it was me, at 3 a.m., trying to remember my own birthday.";
 
 const OUT = "/output/entry.txt";
 
